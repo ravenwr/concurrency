@@ -141,8 +141,8 @@ Threads can exist in 5 states:
 
 
 #### Posix Threads: 
-
-    Implemented to follow - IEEE POSIX 1003.1c standard
+ 
+     Implemented to follow - IEEE POSIX 1003.1c standard
 
 #### Windows threads:
 
