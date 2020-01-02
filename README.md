@@ -146,7 +146,7 @@ Threads can exist in 5 states:
 
 #### Windows threads:
 
-    Chosen by microsoft to implement low-level threads against other threads..
+    Chosen by microsoft to implement low-level threads against other threads
 
 #### Daemonizing threads:
 
